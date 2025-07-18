@@ -25,7 +25,7 @@ The dashboard features several key performance indicators and measures:
   - Dynamic Trend Analysis: A line chart that allows users to switch between different measures (Sales, Boxes, Shipments, Costs, Profit, Profit Percentage) using a field parameter slicer.
   -  Shipment Distribution (Histogram): Visualizing the spread of shipments by box bins using a column chart and a zoom slider. Includes Low Box Shipments analysis.
   -  Detailed Performance Tables: Two tables showcasing performance:
-  - - Salesperson Performance: Details total sales, profit, profit percentage, LBS, and a profit target indicator with conditional formatting icons (green check, amber warning, red X) and data bars.
+   - Salesperson Performance: Details total sales, profit, profit percentage, LBS, and a profit target indicator with conditional formatting icons (green check, amber warning, red X) and data bars.
     - Product Performance: Similar detailed view for products.
   -  Bookmarks for View Switching: Allows users to toggle between Salesperson and Product detail tables seamlessly. Bookmarks are configured to maintain filter context (data status).
   -   Interactive Filters/Slicers: Custom-styled slicers for Product Category and Geography to enable deeper analysis.
@@ -38,6 +38,8 @@ Open the Power BI project file in Power BI Desktop.
 - Explore the report, interact with slicers, view different measures, and analyze sales performance.
 
 - <a href="https://github.com/ZainabMansoor26/Chocolate-Company-Sales-Dashboard/blob/main/Chocolate%20Company%20Sales%20Report%20Dashboard.pbix"> Chocolate Company Power BI Dashboard
-
+## Visual Preview
+<img width="1541" height="857" alt="Dashboard - Chocolate Report" src="https://github.com/user-attachments/assets/4a47f29d-4bbc-4d96-a47b-f1607b3d200f" />
 ## Author/Credits
 - syedazainabmansoor26@gmail.com
+- This project showcases my ability to analyze, clean, and visualize sales data effectively, proving my proficiency in Power BI and data analytics.
