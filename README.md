@@ -21,7 +21,14 @@ The dashboard features several key performance indicators and measures:
  - Month-on-Month Changes for key metrics like sales, boxes, costs, profit, and shipments.
  - Latest Month Sales and Latest Month-on-Month Sales Change for card visuals.
 ## Dashboard Features
- 
+  - Interactive KPI Cards: Displaying key measures with month-on-month change context and conditional formatting for negative values. Icons are also used for visual identification.
+  - Dynamic Trend Analysis: A line chart that allows users to switch between different measures (Sales, Boxes, Shipments, Costs, Profit, Profit Percentage) using a field parameter slicer.
+  -  Shipment Distribution (Histogram): Visualizing the spread of shipments by box bins using a column chart and a zoom slider. Includes Low Box Shipments analysis.
+  -  Detailed Performance Tables: Two tables showcasing performance: Salesperson Performance: Details total sales, profit, profit percentage, LBS, and a profit target indicator with conditional formatting icons (green check, amber warning, red X) and data bars.
+        ▪ Product Performance: Similar detailed view for products.
+  -  Bookmarks for View Switching: Allows users to toggle between Salesperson and Product detail tables seamlessly. Bookmarks are configured to maintain filter context (data status).
+  -   Interactive Filters/Slicers: Custom-styled slicers for Product Category and Geography to enable deeper analysis.
+  - Custom Tooltips: A dedicated tool tip page providing a donut chart breakdown by geography when hovering over trend data points.
 ## Power BI Desktop: Main tool for report building.
   - DAX: For calculations, measures, and time intelligence functions.
   - Power Query: For data transformation, cleaning, and adding calendar columns.
