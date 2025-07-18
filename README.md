@@ -26,7 +26,7 @@ The dashboard features several key performance indicators and measures:
   -  Shipment Distribution (Histogram): Visualizing the spread of shipments by box bins using a column chart and a zoom slider. Includes Low Box Shipments analysis.
   -  Detailed Performance Tables: Two tables showcasing performance:
   - - Salesperson Performance: Details total sales, profit, profit percentage, LBS, and a profit target indicator with conditional formatting icons (green check, amber warning, red X) and data bars.
-        ▪ Product Performance: Similar detailed view for products.
+    - Product Performance: Similar detailed view for products.
   -  Bookmarks for View Switching: Allows users to toggle between Salesperson and Product detail tables seamlessly. Bookmarks are configured to maintain filter context (data status).
   -   Interactive Filters/Slicers: Custom-styled slicers for Product Category and Geography to enable deeper analysis.
   - Custom Tooltips: A dedicated tool tip page providing a donut chart breakdown by geography when hovering over trend data points.
