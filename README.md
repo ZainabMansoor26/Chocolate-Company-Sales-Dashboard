@@ -40,6 +40,7 @@ Open the Power BI project file in Power BI Desktop.
 - <a href="https://github.com/ZainabMansoor26/Chocolate-Company-Sales-Dashboard/blob/main/Chocolate%20Company%20Sales%20Report%20Dashboard.pbix"> Chocolate Company Power BI Dashboard
 ## Visual Preview
 <img width="1541" height="857" alt="Dashboard - Chocolate Report" src="https://github.com/user-attachments/assets/4a47f29d-4bbc-4d96-a47b-f1607b3d200f" />
+
 ## Author/Credits
 - syedazainabmansoor26@gmail.com
 - This project showcases my ability to analyze, clean, and visualize sales data effectively, proving my proficiency in Power BI and data analytics.
