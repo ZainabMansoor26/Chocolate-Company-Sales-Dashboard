@@ -7,16 +7,16 @@ The data model is built using a simplified star schema to facilitate effective a
     ◦ Explain that the 'shipment' table has one row per shipment, detailing salesperson, product, geography, date, sales amount, and boxes shipped.
 ## Key Measures & KPIs
 The dashboard features several key performance indicators and measures:
-        ▪ Total Sales (Total Revenues)
-        ▪ Total Boxes
-        ▪ Total Shipments (Count of rows in shipments table)
-        ▪ Total Cost (Calculated based on boxes and cost per box from product table)
-        ▪ Total Profit (Total Sales minus Total Costs)
-        ▪ Profit Percentage
-        ▪ Low Box Shipments Count (Shipments with less than 50 boxes)
-        ▪ Low Box Shipments Percentage (LBS count divided by total shipments)
-        ▪ Month-on-Month Changes for key metrics like sales, boxes, costs, profit, and shipments.
-        ▪ Latest Month Sales and Latest Month-on-Month Sales Change for card visuals.
+ - Total Sales (Total Revenues)
+ - Total Boxes
+ - Total Shipments (Count of rows in shipments table)
+ - Total Cost (Calculated based on boxes and cost per box from product table)
+ - Total Profit (Total Sales minus Total Costs)
+ - Profit Percentage
+ - Low Box Shipments Count (Shipments with less than 50 boxes)
+ - Low Box Shipments Percentage (LBS count divided by total shipments)
+ - Month-on-Month Changes for key metrics like sales, boxes, costs, profit, and shipments.
+ - Latest Month Sales and Latest Month-on-Month Sales Change for card visuals.
 ## Dashboard Features
  
 ## Power BI Desktop: Main tool for report building.
@@ -29,4 +29,4 @@ Explore the report, interact with slicers, view different measures, and analyze 
 - <a href="https://github.com/ZainabMansoor26/Chocolate-Company-Sales-Dashboard/blob/main/Chocolate%20Company%20Sales%20Report%20Dashboard.pbix"> Chocolate Company Power BI Dashboard
 
 ## Author/Credits
-   ◦ syedazainabmansoor26@gmail.com
+- syedazainabmansoor26@gmail.com
