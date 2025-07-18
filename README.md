@@ -26,7 +26,7 @@ The dashboard features several key performance indicators and measures:
 Open the Power BI project file in Power BI Desktop.
 Explore the report, interact with slicers, view different measures, and analyze sales performance.
 
-https://github.com/ZainabMansoor26/Chocolate-Company-Sales-Dashboard/blob/main/Chocolate%20Company%20Sales%20Report%20Dashboard.pbix
+- <a href="https://github.com/ZainabMansoor26/Chocolate-Company-Sales-Dashboard/blob/main/Chocolate%20Company%20Sales%20Report%20Dashboard.pbix"> Chocolate Company Power BI Dashboard
 
 ## Author/Credits
    ◦ syedazainabmansoor26@gmail.com
